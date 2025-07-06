@@ -40,3 +40,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+# Keep both like this
+node_modules
+dist/
+.env
+firebase-debug.log
